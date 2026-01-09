@@ -8,12 +8,13 @@ JSON (Armazenamento de dados)
 readline-sync (Interação via terminal)
 
 ## 🛠️ Como rodar o projeto localmente
-** Clone o repositório: **
+**Clone o repositório:**
 git clone https://github.com/Flavia-Sa/agilStore/
 Entre na pasta do projeto: cd agilStore
 Instale as dependências: npm install
 Inicie a aplicação: node index.js
-** Funcionalidades: **
+
+**Funcionalidades:**
 I Adicionar produtos com ID único.
 II Listar produtos em formato de tabela.
 III Atualizar informações de produtos existentes.
